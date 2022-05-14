@@ -14,8 +14,8 @@ In the project, I was in a group with my friend, whom I thank for his work.
 <!-- * [Usage](#usage) -->
 
 ## Images
-![Main View](./img/mainView.png)
-![Main View 2](./img/mainView2.png)
+![Main View](./img/mainView.jpg)
+![Main View 2](./img/mainView2.jpg)
 
 ## Technologies And Devices Used
 - C
